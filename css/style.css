@@ -1,13 +1,52 @@
-/*header*/
+/*HEADER*/
+body{
+	background-color:#F6F8F9;
+}
 .header{
-	position: fixed;
-}
-.navigation{
+	background-color: #F6F8F9;
+	padding-top: 20px;
 
 }
-.nav-ul{
+.logo{
+	display: inline-block;
+	margine-right: 92px;
+
+}
+.nav{
+	display: inline-block;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 22px;
+}
+.icon{
+
+}
+/*section1*/
+.section1{
+
+}
+.h2{
+
+}
+.div1{
+
+}
+.div2{
+
+}
+.imgtext1{
+
+}
+.blocktext1{
+
+}
+.timeimg{
+
+}
+
+
+/*section2*/
+.section2{
 	
-}
-.nav-li_{
-
 }
