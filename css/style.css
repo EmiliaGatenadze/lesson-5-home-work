@@ -1,52 +1,40 @@
-/*HEADER*/
-body{
-	background-color:#F6F8F9;
-}
+/*header*/
 .header{
-	background-color: #F6F8F9;
 	padding-top: 20px;
+	padding-bottom: 19px;
+	position: fixed;
+	z-index: 10;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background-color: #F6F8F9;
 
 }
 .logo{
 	display: inline-block;
-	margine-right: 92px;
+	vertical-align: middle;
+	font-size: 13px;
+	text-transform: uppercase;
+	color:#FA6980;
+	font-weight: bold;
+	padding-right: 92px;
+	padding-left: 22px;
+
 
 }
-.nav{
+.navigation{
 	display: inline-block;
 }
 .nav-li{
 	display: inline-block;
-	margin-right: 22px;
+	vertical-align: middle;
 }
 .icon{
-
-}
-/*section1*/
-.section1{
-
-}
-.h2{
-
-}
-.div1{
-
-}
-.div2{
-
-}
-.imgtext1{
-
-}
-.blocktext1{
-
-}
-.timeimg{
+	vertical-align: middle;
 
 }
 
-
-/*section2*/
-.section2{
-	
+body{
+	padding-top: 76px;
+	background-color:#F6F8F9;
 }
