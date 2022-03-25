@@ -6,66 +6,8 @@
 
 
 
-.div1{
-	display: inline-block;
-	margin-right: 40px;
-	width: 360px;
-	height: 350px;
-	background-color: #FFFFFF;
-}
-.blocktext1{
-	margin:75px 80px 13px 40px;
-	width: 240px;
-	height: 36px;
-	text-align:left;
-	color: #A6ADB4;
-	font-size: 13px;
-	font-family: 'Old Standard TT', serif;
 
-}
-.imgwrapper{
-	position: relative;
-}
-.imgtext1{
-	position: absolute;
-	top: 27px;
-	left: 41px;
-	color: #FFFFFF;
-	font-size: 16px;
-	font-family: 'Old Standard TT', serif;
-}
-.timeimg{
-	display: inline-block;
-	margin-left: 40px;
-}
-.div2{
-	display: inline-block;
-	margin-right: 40px;
-	width: 360px;
-	height: 350px;
-	background-color: #FFFFFF;
-}
-.blocktext2{
-	margin:75px 80px 13px 40px;
-	width: 240px;
-	height: 36px;
-	text-align:left;
-	color: #A6ADB4;
-	font-size: 13px;
-	font-family: 'Old Standard TT', serif;
-}
-.imgtext2{
-	position: absolute;
-	top: 27px;
-	left: 41px;
-	color: #FFFFFF;
-	font-size: 16px;
-	font-family: 'Old Standard TT', serif;
-}
-.timeimg2{
-	display: inline-block;
-	margin-left: 40px;
-}
+
 .div3{
 	display: inline-block;
 	margin-right: 40px;
